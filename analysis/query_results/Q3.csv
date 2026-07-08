@@ -1,0 +1,13 @@
+Region,Segment,num_orders,total_sales,total_profit
+West,Consumer,1672,362880.77,57450.6
+East,Consumer,1469,350908.17,41190.98
+Central,Consumer,1212,252031.43,8564.05
+West,Corporate,960,225855.27,34437.43
+East,Corporate,877,200409.35,23622.58
+South,Consumer,838,195580.97,26913.57
+Central,Corporate,673,157995.81,18703.9
+West,Home Office,571,136721.78,16530.41
+East,Home Office,502,127463.73,26709.22
+South,Corporate,510,121885.93,15215.22
+Central,Home Office,438,91212.64,12438.41
+South,Home Office,272,74255.0,4620.63

@@ -1,0 +1,5 @@
+tier_label,num_orders,avg_margin_pct,total_profit
+No discount,4798,34.02,320987.6
+Low (1-20%),3803,17.44,100785.47
+Medium (21-40%),460,-16.69,-35817.47
+High (41%+),933,-108.9,-99558.59
